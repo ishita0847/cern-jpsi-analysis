@@ -1,0 +1,40 @@
+J/psi Mass Peak Fit Results
+============================
+
+Gaussian Fit Parameters
+
+Peak height (A):
+6.1011 ± 0.5233
+
+Estimated J/psi mass (mu):
+3.0920 ± 0.0046 GeV
+
+Peak width (sigma):
+0.0460 ± 0.0046 GeV
+
+
+Comparison with Expected Value
+
+Expected J/psi mass:
+3.0970 GeV
+
+Difference:
+0.0050 GeV
+
+Percentage difference:
+0.162%
+
+
+Analysis Summary
+
+The invariant mass distribution of opposite-charge muon pairs
+was analyzed in the J/psi mass region from 2.9 to 3.3 GeV.
+
+A Gaussian function was fitted to the reconstructed mass peak.
+The estimated peak position was 3.0920 ± 0.0046 GeV, which is
+close to the expected J/psi mass of approximately 3.0970 GeV.
+
+The difference between the reconstructed and expected mass may
+be influenced by limited statistics, background events, histogram
+binning, and the use of a Gaussian-only model without an explicit
+background component.
